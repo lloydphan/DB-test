@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 20:03:30 MYT 2020
+doxia-core-1.0.jar>central=
+doxia-core-1.0.jar>adobe-public-releases=
+doxia-core-1.0.pom>adobe-public-releases=
+doxia-core-1.0.pom>central=
+doxia-core-1.0.jar>adobe=
+doxia-core-1.0.pom>adobe=

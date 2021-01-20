@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 03 20:50:13 MYT 2020
+maven-reporting-api-3.0.jar>central=
+maven-reporting-api-3.0.jar>adobe=
+maven-reporting-api-3.0.pom>adobe=
+maven-reporting-api-3.0.pom>central=
