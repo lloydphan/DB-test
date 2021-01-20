@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 10 18:37:30 MYT 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1605004650941
+http\://repo.adobe.com/nexus/content/groups/public/.error=
+https\://repo.adobe.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.jackrabbit\:jackrabbit-jcr-commons\:pom\:2.8.0 from/to central (https\://repo.maven.apache.org/maven2)\: /Users/lloyd/.m2/repository/org/apache/jackrabbit/jackrabbit-jcr-commons/2.8.0/jackrabbit-jcr-commons-2.8.0.pom.part (No such file or directory)
+http\://repo.adobe.com/nexus/content/groups/public/.lastUpdated=1605004650535
+https\://repo.adobe.com/nexus/content/groups/public/.lastUpdated=1605004650023

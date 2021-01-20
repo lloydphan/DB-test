@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 20 15:12:06 MYT 2021
+plexus-classworlds-2.2.2.jar>central=
+plexus-classworlds-2.2.2.pom>central=
+plexus-classworlds-2.2.2.pom>adobe=
+plexus-classworlds-2.2.2.pom>adobe-public-releases=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 11:24:02 MYT 2020
+org.apache.sling.commons.json-2.0.6.jar>adobe-public-releases=
+org.apache.sling.commons.json-2.0.6.pom>adobe-public-releases=
+org.apache.sling.commons.json-2.0.6.pom>adobe=
+org.apache.sling.commons.json-2.0.6.jar>adobe=

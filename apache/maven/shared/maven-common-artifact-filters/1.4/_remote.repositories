@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 11:24:00 MYT 2020
+maven-common-artifact-filters-1.4.jar>adobe=
+maven-common-artifact-filters-1.4.pom>adobe-public-releases=
+maven-common-artifact-filters-1.4.pom>adobe=
+maven-common-artifact-filters-1.4.jar>adobe-public-releases=
