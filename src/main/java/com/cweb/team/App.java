@@ -10,7 +10,7 @@ public class App {
             // Load SQL Server JDBC driver and establish connection.
             System.out.print("Connecting to SQL Server ... \n");
             try (Connection connection = DriverManager.getConnection(connectionUrl)) {
-                System.out.println("Done.");
+                System.out.println("Connected.");
             }
         } catch (Exception e) {
             System.out.println("Can not connect");
